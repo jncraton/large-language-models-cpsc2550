@@ -2,7 +2,6 @@
 
 wget -q -N https://raw.githubusercontent.com/jncraton/course-template/master/update-course-template \
            https://raw.githubusercontent.com/jncraton/course-template/master/.gitignore \
-           https://raw.githubusercontent.com/jncraton/course-template/master/.github/workflows/pages.yml \
            https://raw.githubusercontent.com/jncraton/course-template/master/readme-template.md \
            https://raw.githubusercontent.com/jncraton/course-template/master/head.tex \
            https://raw.githubusercontent.com/jncraton/course-template/master/makefile \
@@ -15,5 +14,8 @@ wget -q -N https://raw.githubusercontent.com/jncraton/course-template/master/upd
            https://raw.githubusercontent.com/jncraton/course-template/master/style.css \
            https://raw.githubusercontent.com/jncraton/course-template/master/gen_dates.py \
            https://raw.githubusercontent.com/jncraton/course-template/master/config.json
+
+mkdir -p .github/workflows
+cd .github/workflows && wget -q -N https://raw.githubusercontent.com/jncraton/course-template/master/.github/workflows/pages.yml
           
 chmod 755 update-course-template
