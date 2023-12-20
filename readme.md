@@ -9,6 +9,8 @@ CPSC 2550 Large Language Models
 Course Catalog Description
 --------------------------
 
+This course explores practical applications of Large Language Models (LLMs) such as GPT-4, PaLM, and LLaMA. Students will learn about the architecture and use of LLMs in tasks such as text generation, translation, and sentiment analysis. The course also covers the societal implications of LLMs, including bias and ethical considerations. Through hands-on projects, discussions, and presentations, students will gain practical experience with LLMs and explore their use in modern software systems. This course is intended for both non-majors and majors within the department. PREREQUISITE: Math proficiency.
+
 Required Resources
 ------------------
 
