@@ -32,6 +32,13 @@ There is no required textbook for this course, however the following material ar
 Course objectives
 -----------------
 
+Upon completion of this course, students will be able to:
+
+- Interact with large language models from a Python environment
+- Describe high-level operation of large language models
+- Explain how large language models fit into the history of NLP and ML
+- Apply large language models to creative or analytical tasks
+
 Course Overview
 ---------------
 
@@ -44,10 +51,6 @@ Significant software projects will be completed and assessed. Students will also
 ### Quizzes
 
 Regular quizzes will be given covering the lecture material. Students will have two attempts on each quiz, one at the start of class and one at the end. Only the highest score will be kept. The lowest three quiz scores from the semester will not count toward the final grade.
-
-### Homework
-
-Students will complete approximately 4 homework assignments covering various topics from the course text.
 
 ### Exams
 
