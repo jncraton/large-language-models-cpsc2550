@@ -17,6 +17,7 @@ Required Resources
 There is no required textbook for this course, however the following material are made available for reference in this course:
 
 - [Deep Learning](http://www.deeplearningbook.org) by Yoshua Bengio, Ian Goodfellow, and Aaron Courville.
+- [Python for Everybody](https://www.py4e.com/) by Charles Severance
 - Neural Machine Translation by Jointly Learning to Align and Translate (2014) by Bahdanau, Cho, and Bengio, https://arxiv.org/abs/1409.0473
 - Attention Is All You Need (2017) by Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, and Polosukhin, https://arxiv.org/abs/1706.03762
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018) by Devlin, Chang, Lee, and Toutanova, https://arxiv.org/abs/1810.04805
