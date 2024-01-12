@@ -36,7 +36,8 @@ syllabus.pdf: syllabus.md
 		-dMonoImageResolution=75		\
 		-sOutputFile=syllabus-comp.pdf \
 		syllabus.pdf
-	cp -f syllabus-comp.pdf CPSC*.pdf
+	mv -f syllabus-comp.pdf syllabus.pdf
+	cp syllabus.pdf $(shell basename $(CURDIR)).pdf
 
 env.html: env.md
 	pandoc -V lang=en --metadata pagetitle=Environment --standalone --css=style.css -o $@ $<
@@ -71,7 +72,7 @@ lectures/reveal.js:
 
 clean:
 	rm -rf pandoc*
-	rm -f index.html index.md syllabus* env.html
+	rm -f index.html index.md syllabus* env.html *.pdf
 	rm -rf lectures/*.html lectures/all.md
 	find lectures -name "*.html" -exec rm -f {} \;
 	rm -rf figures
