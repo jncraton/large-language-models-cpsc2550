@@ -1,3 +1,8 @@
+Examples
+========
+
+This directory includes the examples shown in class.
+
 Data Sources
 ------------
 
