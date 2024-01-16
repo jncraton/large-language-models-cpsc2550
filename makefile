@@ -1,4 +1,4 @@
-all: index.html syllabus.html syllabus.docx syllabus.txt env.html lectures/index.html
+all: index.html syllabus.html syllabus.docx syllabus.txt env.html lectures/index.html examples/index.html
 
 .PHONY: clean lectures
 
@@ -67,6 +67,9 @@ lectures/all-slides.html: lectures/all.md
 lectures/index.html: lectures lectures/all.html lectures/all-slides.html lectures/reveal.js
 	cd lectures && tree -H '.' -L 1 --noreport --charset utf-8 -P "*.html" > index.html
 
+examples/index.html:
+	cd examples && tree -H '.' -L 1 --noreport --charset utf-8 -P "*" > index.html
+
 lectures/reveal.js:
 	cd lectures && git clone --depth=1 --branch 3.9.2 https://github.com/hakimel/reveal.js
 
@@ -74,6 +77,7 @@ clean:
 	rm -rf pandoc*
 	rm -f index.html index.md syllabus* env.html *.pdf
 	rm -rf lectures/*.html lectures/all.md
+	rm -rf examples/index.html
 	find lectures -name "*.html" -exec rm -f {} \;
 	rm -rf figures
 	rm -rf __pycache__
