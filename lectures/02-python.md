@@ -1,7 +1,7 @@
 Python
 ======
 
-Instucting Computers
+Instructing Computers
 --------------------
 
 - In order to interact with computer systems they must be provided with instructions
