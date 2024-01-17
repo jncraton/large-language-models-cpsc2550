@@ -18,3 +18,9 @@ Sampling
 
 Example
 -------
+
+Enhancing the model
+-------------------
+
+- Consider more than one word of context
+- Attempt to learn similarities between words
