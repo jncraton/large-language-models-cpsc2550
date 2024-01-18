@@ -42,7 +42,7 @@ Transformers
 
 - Introduced in [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - Provide efficient training
-- Uses attention mechanism to aviod underweighting less recently seen data
+- Uses attention mechanism to avoid under weighting less recently seen data
 
 Transformer Weaknesses
 ----------------------

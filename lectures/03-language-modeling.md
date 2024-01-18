@@ -24,3 +24,22 @@ Enhancing the model
 
 - Consider more than one word of context
 - Attempt to learn similarities between words
+
+n-gram model
+------------
+
+- Consider multiple prior words
+
+Example
+-------
+
+Scaling n-gram models
+---------------------
+
+- There are many different words that must be tracked
+- One estimate is that there are ~1 million words just in English
+
+Bag-of-words
+------------
+
+- A bag-of-words approach can be used that ignores word order
