@@ -23,8 +23,6 @@ Challenges
 - Whitespace
 - Diverse languages support (natural and programming)
 
-
-
 OpenAI Tokenizer
 ----------------
 
