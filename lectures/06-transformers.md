@@ -61,3 +61,10 @@ Transformer Weaknesses
 
 - Limited context size
 - Attention context has an n^2 memory requirement during inference
+
+More information
+----------------
+
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [LLM Visualization](https://bbycroft.net/llm)
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
