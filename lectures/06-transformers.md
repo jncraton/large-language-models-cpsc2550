@@ -46,7 +46,15 @@ Transformers
 
 ---
 
+![Transformer [(source)](http://jalammar.github.io/illustrated-transformer/)](media/transformer-basic.png)
+
+---
+
 ![Transformer Decoding [(source)](http://jalammar.github.io/illustrated-transformer/)](media/transformer-decoding.mp4)
+
+---
+
+![Transformer Details [(source)](http://jalammar.github.io/illustrated-transformer/)](media/transformer-details.png)
 
 Transformer Weaknesses
 ----------------------
