@@ -44,6 +44,10 @@ Transformers
 - Provide efficient training
 - Uses attention mechanism to avoid under weighting less recently seen data
 
+---
+
+![Transformer Decoding [(source)](http://jalammar.github.io/illustrated-transformer/)](media/transformer-decoding.mp4)
+
 Transformer Weaknesses
 ----------------------
 
