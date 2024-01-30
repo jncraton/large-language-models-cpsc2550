@@ -19,7 +19,7 @@ Challenges
 ----------
 
 - Punctuation
-- [Occurences in training set](https://iter.ca/post/gpt-crash/)
+- [Occurrences in training set](https://iter.ca/post/gpt-crash/)
 - Whitespace
 - Diverse languages support (natural and programming)
 

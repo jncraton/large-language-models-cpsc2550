@@ -1,4 +1,4 @@
-personal_ws-1.1 en 26 
+personal_ws-1.1 en 33 
 CPSC
 ChatGPT
 Colab
@@ -15,13 +15,20 @@ RNN
 RNNs
 VM
 VirtualBox
+bigram
+embeddings
 fidelitas
+gpt
 natively
 pre
 px
 sharable
+tokenization
+tokenizer
 unigram
 utilitas
+vec
 veritas
 virt
 virtualized
+whitespace
