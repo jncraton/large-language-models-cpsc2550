@@ -4,7 +4,7 @@ Transformers
 Simple models
 -------------
 
-- Unigram models are simple, but unable to capture complexity
+- Bigram models are simple, but unable to capture complexity
 
 n-grams
 -------
