@@ -10,6 +10,10 @@ Transformers
 - [Paper](https://arxiv.org/pdf/1810.04805.pdf)
 - SOTA at most NLP tasks when released
 
+---
+
+![BERT](bert.png)
+
 Training
 --------
 
@@ -20,4 +24,7 @@ Training
 ![Transformer](media/transformer-basic.png)
 
 ---
+
+Pooling
+-------
 
