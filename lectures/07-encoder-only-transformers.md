@@ -12,7 +12,7 @@ Transformers
 
 ---
 
-![BERT](bert.png)
+![BERT](media/bert.png)
 
 Training
 --------
