@@ -51,8 +51,8 @@ Training Process
 Fine-tuning
 -----------
 
-- May involved training for specific NLP task (e.g. classification)
-- May involve training a model to better respond to instructions
+- Training for specific NLP task (e.g. classification)
+- Training a model to better respond to instructions
 
 OpenOrca
 --------
