@@ -59,14 +59,14 @@ Vector Search
 Dot Product
 -----------
 
-Coordinate Definiton
+Coordinate Definition
 
 $\mathbf A \cdot \mathbf B = \sum_{i=1}^n A_i B_i = A_1 B_1 + A_2 B_2 + \cdots + A_n B_n$
 
 Dot Product
 -----------
 
-Geometric Definiton
+Geometric Definition
 
 $\mathbf{A}\cdot\mathbf{B}=\left\|\mathbf{A}\right\|\left\|\mathbf{B}\right\|\cos\theta$
 

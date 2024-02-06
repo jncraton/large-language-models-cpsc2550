@@ -70,4 +70,4 @@ Openchat Example
 -----------------
 
 - [openchat-3.5-0106](https://huggingface.co/openchat/openchat-3.5-0106)
-- 7B paramater model fine-tuned for chat
+- 7B parameter model fine-tuned for chat

@@ -1,4 +1,7 @@
-personal_ws-1.1 en 33 
+personal_ws-1.1 en 50 
+BERTBASE
+BERTLARGE
+BooksCorpus
 CPSC
 ChatGPT
 Colab
@@ -7,19 +10,33 @@ Homebrew
 Jupyter
 KACE
 LLM
+NLP
 OSBoxes
 OpenAI
+OpenOrca
+Openchat
+Orca
 Phind
+Pretraining
 QEMU
 RNN
 RNNs
+SFT
+SOTA
+TPU
+TPUs
 VM
 VirtualBox
 bigram
+cdot
+cdots
+dataset
 embeddings
 fidelitas
 gpt
+mathbf
 natively
+openchat
 pre
 px
 sharable
