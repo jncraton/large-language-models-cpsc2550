@@ -17,6 +17,13 @@ GPT
 
 ![GPT](media/gpt.png)
 
+Decoder-only
+------------
+
+- No encoder
+- No encoder/decoder attention block in decoder
+- Masked (causal) attention
+
 Pretraining Data
 ----------------
 
