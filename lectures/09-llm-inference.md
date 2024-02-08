@@ -55,7 +55,7 @@ Quantization
 
 ---
 
-![JPEG DCT Output](media/jpeg-dct.svg){height=540px}
+![JPEG DCT Matrix](media/jpeg-dct.svg){height=540px}
 
 ---
 
