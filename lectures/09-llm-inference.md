@@ -110,3 +110,10 @@ import languagemodels as lm
 
 print(lm.do("Name the planets in the solar system."))
 ```
+
+Inferential
+-----------
+
+- Inference engine hosted on campus
+- Includes playground and API3
+- [API example](examples/inferential-hello-world.ipynb)
