@@ -1,3 +1,24 @@
+Course Updates
+==============
+
+Exam next Thursday
+------------------
+
+- Closed book and taken in class on Canvas
+- Will primarily focus on terminology, not deeper concepts
+- You may use a 1-page hand-written note sheet on the exam
+
+Review
+------
+
+- Tuesday will be focused on review of major concepts and terminology
+
+Projects
+--------
+
+- We will begin work on projects the following week
+- It would be helpful to begin thinking about what you might like to work on and who you may want to work with
+
 Inference Tools
 ===============
 
