@@ -97,3 +97,16 @@ CTranslate2
 - Supports encoder-decoder, encoder-only, and decoder-only models
 - [example](../examples/ctranslate2.ipynb)
 
+languagemodels
+--------------
+
+- Used for one lab in Intro to CS
+- Wrapper around CTranslate2
+
+---
+
+```python
+import languagemodels as lm
+
+print(lm.do("Name the planets in the solar system."))
+```
