@@ -24,7 +24,7 @@ n-grams
 - Examples include letters in a word or words in a text
 - A unigram (or 1-gram) would be a single word
 
-Hard-coded unigram model
+Hard-coded bigram model
 ------------------------
 
 - Considers only the previous word when determining the next

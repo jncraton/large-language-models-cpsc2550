@@ -1,7 +1,7 @@
 Language Modeling
 =================
 
-Learned deterministic unigram model
+Learned deterministic bigram model
 -----------------------------------
 
 - Rules for learning which word comes next can be learned
