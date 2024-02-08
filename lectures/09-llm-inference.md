@@ -116,4 +116,4 @@ Inferential
 
 - Inference engine hosted on campus
 - Includes playground and API
-- [API example](examples/inferential-hello-world.ipynb)
+- [API example](../examples/inferential-hello-world.ipynb)
