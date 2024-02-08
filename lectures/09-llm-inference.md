@@ -47,7 +47,7 @@ Quantization
 
 - In order to train properly, models typically use fp32, bf32, or bf16 during training
 - This level of precision may not provide much benefit during inference
-- Because inference is freqently memory bound and narrower fields may allow faster operations there is a performance benefit from shrinking the width of model parameters
+- Because inference is frequently memory bound and narrower fields may allow faster operations there is a performance benefit from shrinking the width of model parameters
 
 ---
 
@@ -70,7 +70,7 @@ llama_cpp_python
 
 - Wrapper for llama.cpp
 - Provides efficient quantized inference from Python
-- Primarly supports decoder-only models
+- Primarily supports decoder-only models
 
 ---
 

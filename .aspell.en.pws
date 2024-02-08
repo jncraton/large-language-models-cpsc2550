@@ -1,11 +1,13 @@
-personal_ws-1.1 en 50 
+personal_ws-1.1 en 55 
 BERTBASE
 BERTLARGE
 BooksCorpus
 CPSC
+CTranslate
 ChatGPT
 Colab
 Craton
+DCT
 Homebrew
 Jupyter
 KACE
@@ -30,15 +32,18 @@ VirtualBox
 bigram
 cdot
 cdots
+cpp
 dataset
 embeddings
 fidelitas
+fp
 gpt
 mathbf
 natively
 openchat
 pre
 px
+quantized
 sharable
 tokenization
 tokenizer
