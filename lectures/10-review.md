@@ -54,6 +54,41 @@ Document Embedding
 
 - The meaning of a document in vector space
 - Learned by a model so that documents with similar meanings can map to similar vectors
+- Can be computed by transformer encoders
+
+Vector similarity
+-----------------
+
+- Vectors can be used to represent documents
+- It can be useful to measure similarity between documents by comparing vectors
+- This is often accomplished using cosine similarity and/or dot product
+
+Transformers
+------------
+
+- Popular machine learning architecture
+- Achieves excellent results in many areas
+- Scales to larger models more effectively than prior architectures
+
+BERT
+----
+
+- Early encoder-only transformer used for general NLP tasks
+- Released in 2018
+- Created by researchers at Google
+
+GPT
+---
+
+- Early decoder-only transformer used for general NLP tasks
+- Released in 2018
+- Created by researchers at OpenAI
+
+Fine-tuning
+-----------
+
+- Allows models to be adapted for specific use cases
+- Can be used to guide models to better follow instructions or respond conversationally
 
 Quantization
 ------------
@@ -62,9 +97,20 @@ Quantization
 - Reduces size of stored model
 - Can improve inference performance
 
-Transformers
-------------
+Sampling
+--------
 
-- Popular machine learning architecture
-- Achieves excellent results in many areas
-- Scales to larger models more effectively than prior architectures
+- Process of converting token probabilities output by an LLM to a single token selected by a model
+
+Huggingface transformers
+------------------------
+
+- Library that can be used for LLM inference
+- Very popular and typically has support for new models quickly
+- May not be the best choice for CPU inference
+
+llama_cpp_python
+----------------
+
+- Python package
+- Provides efficient CPU inference for decoder-only LLMs
