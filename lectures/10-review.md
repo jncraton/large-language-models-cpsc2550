@@ -46,13 +46,12 @@ Training
 Token Embedding
 ---------------
 
-- The meaning of a token in vector space
-- Learned by a model so that tokens with similar meanings can map to similar vectors
+- Learned representation of a token in vector space
 
 Document Embedding
 ------------------
 
-- The meaning of a document in vector space
+- Representation of a document in vector space
 - Learned by a model so that documents with similar meanings can map to similar vectors
 - Can be computed by transformer encoders
 
@@ -69,6 +68,10 @@ Transformers
 - Popular machine learning architecture
 - Achieves excellent results in many areas
 - Scales to larger models more effectively than prior architectures
+
+---
+
+![Transformer](media/transformer-basic.png)
 
 BERT
 ----
@@ -114,3 +117,10 @@ llama_cpp_python
 
 - Python package
 - Provides efficient CPU inference for decoder-only LLMs
+
+Interential
+-----------
+
+- Hosted inference engine create by AU student
+- Available for free inference use in this course
+- Can be accessed using HTTP and the Python `requests` package
