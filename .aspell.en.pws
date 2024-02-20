@@ -1,4 +1,4 @@
-personal_ws-1.1 en 56 
+personal_ws-1.1 en 62 
 BERTBASE
 BERTLARGE
 BooksCorpus
@@ -9,10 +9,15 @@ Colab
 Craton
 DCT
 Homebrew
+Huggingface
+InfiniteCraft
+Interential
 Jupyter
 KACE
 LLM
+LLMs
 NLP
+NPCs
 OSBoxes
 OpenAI
 OpenOrca
@@ -33,6 +38,7 @@ bigram
 cdot
 cdots
 cpp
+curation
 dataset
 embeddings
 fidelitas
